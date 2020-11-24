@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label pattes_non is defined twice, at
+  File "game/Patte_non.rpy", line 2 and
+  File "game/Pattes_non.rpy", line 2.
+
+The label pattes_oui is defined twice, at
+  File "game/Patte_oui.rpy", line 2 and
+  File "game/Pattes_oui.rpy", line 2.
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Mon Nov 23 20:36:09 2020
